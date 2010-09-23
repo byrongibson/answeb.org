@@ -31,10 +31,19 @@ A:link{
 	font-family: Tahoma;
 	font-size: 11px;
 	font-weight: normal;
-	color:#333333;
+	color:#00923f;
 	font-style: normal;
 	line-height:18px;
-	text-decoration: underline;
+	text-decoration: none;
+	outline:none;
+A}:visited{
+	font-family: Tahoma;
+	font-size: 11px;
+	font-weight: normal;
+	color:#00923f;
+	font-style: normal;
+	line-height:18px;
+	text-decoration: none;
 	outline:none;
 }
 A:hover{

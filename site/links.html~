@@ -131,7 +131,7 @@ setInterval("getthedate()",1000)
             <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion3" -->
           <table width="670" border="0" align="left" cellpadding="0" cellspacing="0">
             <tr>
-              <td height="36" align="left" background="images/index_07.jpg" class="main_hd" style="padding-left: 26px;">Sponsors</td>
+              <td height="36" align="left" background="images/index_07.jpg" class="main_hd" style="padding-left: 26px;">Links</td>
             </tr>
             <tr>
               <td height="174" align="center" valign="top" background="images/index_10.jpg" style="background-repeat:repeat-x; background-color:#E3E3E3;"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -139,7 +139,9 @@ setInterval("getthedate()",1000)
                     <td height="14"></td>
                   </tr>
                   <tr>
-					  <td height="14" align="left" valign="top"><p>Coming Soon</p></td>
+                    <td height="14" align="left" valign="top"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec mauris et   augue tristique sodales vel nec quam. Nulla felis tortor, hendrerit ac mollis   et, tincidunt non leo. Suspendisse sollicitudin ultrices enim id adipiscing. Sed   euismod convallis ultrices. Nulla non orci libero, at viverra nulla. Aliquam   lectus eros, pretium sit amet posuere non, rhoncus ut ipsum. Suspendisse dolor   neque, tempor id imperdiet vel, sollicitudin vitae odio. Sed quam risus, viverra   at feugiat sed, gravida non augue. Fusce convallis urna nec mauris faucibus   posuere. Integer eget magna ut dolor semper suscipit. Quisque vitae enim nibh.   Donec quis turpis felis. Nullam eleifend, justo in tempus tempus, libero magna   porta libero, eu lobortis lorem est eget libero. Nulla venenatis pretium tempus. </p>
+                      <p>Ut pharetra blandit malesuada. Duis semper nibh eget est faucibus vitae   auctor elit congue. Mauris tellus neque, pellentesque molestie adipiscing ut,   sagittis eu dolor. Curabitur pretium metus nec nulla aliquam nec vestibulum   lacus vulputate. Nulla placerat pulvinar feugiat. Sed tempor arcu quis metus   mattis vehicula. Pellentesque scelerisque, sapien a ornare vestibulum, lectus   nunc scelerisque tortor, non fringilla nibh leo vel diam. Pellentesque sodales   mollis nisi sed lacinia. Cras ultrices iaculis velit, in tempor neque dictum   sed. Sed vel venenatis turpis. </p>
+                      <p>Ut rutrum adipiscing convallis. Sed mattis, metus eu hendrerit commodo, est   enim ultrices nibh, at vestibulum ligula tortor a mi. Nam nec est nisl. Nunc   eget nisi arcu, non fermentum sapien. Donec et enim nec justo interdum   condimentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a   dolor tortor. Donec tortor ligula, congue condimentum elementum quis, cursus id   elit. Donec consectetur ornare magna, at euismod enim venenatis eget. Nulla sit   amet felis quis orci sagittis sollicitudin ac ut elit. Fusce gravida volutpat   est in rutrum.  elit. Donec a   dolor tortor. Donec tortor ligula, congue condimentum elementum quis, cursus id   elit. Donec consectetur ornare magna, at euismod enim venenatis eget. Nulla sit   amet felis quis orci sagittis sollicitudin ac ut elit. Fusce gravida volutpat   est in rutrum. at euismod enim venenatis eget. Nulla sit   amet felis quis orci sagittis sollicitudin ac ut elit. Fusce gravida volutpat   est in rutrum. </p></td>
                   </tr>
                   <tr>
                     <td height="14">&nbsp;</td>
@@ -220,7 +222,7 @@ setInterval("getthedate()",1000)
                         <tr>
                           <td width="21" align="left" valign="top">&nbsp;</td>
                           <td width="19" align="left" valign="middle"><img src="images/index_11.jpg" width="10" height="10" border="0" /></td>
-                          <td width="181" align="left" valign="middle"><a href="#">Meetings & Conferences</a></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Meetins & Conferences</a></td>
                         </tr>
                     </table></td>
                   </tr>

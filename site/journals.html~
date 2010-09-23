@@ -131,7 +131,7 @@ setInterval("getthedate()",1000)
             <td align="left" valign="top"><!-- InstanceBeginEditable name="EditRegion3" -->
           <table width="670" border="0" align="left" cellpadding="0" cellspacing="0">
             <tr>
-              <td height="36" align="left" background="images/index_07.jpg" class="main_hd" style="padding-left: 26px;">Sponsors</td>
+              <td height="36" align="left" background="images/index_07.jpg" class="main_hd" style="padding-left: 26px;">Journals</td>
             </tr>
             <tr>
               <td height="174" align="center" valign="top" background="images/index_10.jpg" style="background-repeat:repeat-x; background-color:#E3E3E3;"><table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -151,12 +151,12 @@ setInterval("getthedate()",1000)
         <!-- InstanceEndEditable --></td>
             <td width="1"></td>
             <td width="290" valign="top"><table width="282" border="0" align="right" cellpadding="0" cellspacing="0">
-              <!--<tr>
+              <tr>
                 <td><img src="images/index_03.jpg" width="282" height="234" border="0"></td>
               </tr>
               <tr>
                 <td height="6" bgcolor="#FFFFFF"></td>
-			</tr>-->
+              </tr>
               <tr>
                 <td align="center" valign="top" style="background-image:url(images/index_08.jpg); background-repeat:repeat-x; background-position:top; height:210px;"><table width="266" border="0" align="center" cellpadding="0" cellspacing="0">
               <tr>
@@ -208,7 +208,7 @@ setInterval("getthedate()",1000)
                         <tr>
                           <td width="21" align="left" valign="top">&nbsp;</td>
                           <td width="19" align="left" valign="middle"><img src="images/index_11.jpg" width="10" height="10" border="0" /></td>
-                          <td width="181" align="left" valign="middle"><a href="#">Public-Private Partnerships</a></td>
+                          <td width="181" align="left" valign="middle"><a href="#">Public-Private Parternships</a></td>
                         </tr>
                     </table></td>
                   </tr>
