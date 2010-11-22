@@ -1,0 +1,5 @@
+http://answeb.org/
+
+The English (en) version is the baseline, a French version is in the works.  Currently, en links to a few French language .doc documents, like the French version of the membership application, and the French About Us page.  A French version of the website is in the works.
+
+The site is pure html, though saved as .shtml to enable SSI (only enabled for .shtml on current host).  Index.php redirects to the English version, but the site will not be rewritten in PhP, this only for convenience (current host has php enabled by default).  Version 2 will likely be ported to a Python or Java CMS running on Google App Engine, and Index.php will be converted appropriately there.  Might also include some code to guess the browser's language and redirect to English or French version accordingly. 
